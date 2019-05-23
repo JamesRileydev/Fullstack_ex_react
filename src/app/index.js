@@ -10,4 +10,4 @@ ReactDOM.render(
     document.getElementById("app")
 );
 
-//console.log(store.getState());
+console.log(store.getState());
